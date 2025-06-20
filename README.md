@@ -1,4 +1,3 @@
-# Data-Warehouse-design
 # 📊 Data Mart – Phòng Tài Chính – Kế Toán
 
 ## 🎯 Mục tiêu dự án
